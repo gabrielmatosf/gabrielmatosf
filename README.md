@@ -2,7 +2,7 @@
   
 ## 👋 Olá! Eu sou o Gabriel Matos
 
-- 💻 Desenvolvedor em formação
+- 💻 Desenvolvedor front-end em formação
 - 👨🏼‍💻 Em busca da minha primeira oportunidade como desenvolvedor
 - 🧑‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Informática e Administração Paulista (FIAP)
 
